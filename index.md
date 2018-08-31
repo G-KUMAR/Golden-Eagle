@@ -10,43 +10,27 @@ of the system while operating.
  
 ### The System
 
-![The System](https://github.com/G-KUMAR/Golden-Eagle.io/blob/master/latest_drone_labelled.png)
+![](https://github.com/G-KUMAR/Golden-Eagle.io/blob/master/latest_drone_labelled.png)
 
 ### The Hardware Pipeline
 
-![The Hardware Pipeline](https://github.com/G-KUMAR/Golden-Eagle.io/blob/master/system.png)
+![](https://github.com/G-KUMAR/Golden-Eagle.io/blob/master/system.png)
 
-You can use the [editor on GitHub](https://github.com/G-KUMAR/Golden_Eagle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Methodology
+Camera and IMU(Inertial Measurement Unit) readings are fused for an accurate state estimation which is the most crucial aspect while navigating in unknown cluttered
+environment. To have an efficient understanding of the environment, a monocular camera based dense reconstruction is used which is light weight in terms of the required
+processing power and is suitable to be used on-board. A simultaneous object detection algorithm makes the search possible while exploring the environment. A downward facing
+camera along with a height sensor makes accurate landing of the drone over the target object smoother. Combining the state-of-the-art techniques of State Estimation, Dense
+Mapping, Object Detection, Trajectory Planning and Object Grasping resulted in a system which has been successfully tested in real world conditions.
 
-### Markdown
+###Summary
+This is a system integration design of an aerial robot which is low cost, light weighpower efficient, fully on-board, autonomous and has a versatile gripping capability. Ousystem is capable of running end to end pipeline from state estimation to dense indoor mapping, planning, object detection, picking and navigation in a cluttered indoor environment on a single on-board CPU efficiently. We also propose a simple but efficientechnique to predict the position of visible objects in global frame. A gripper feedback based failure recovery method makes the entire system robust towards unsuccessful gripping and mid air payload drop. Our system is capable of searching, accurately localizing and picking up objects of varying shape with unknown location.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## As The Project is still in progress further details cannot be disclosed publicly.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/G-KUMAR/Golden_Eagle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### People
 The Project is still in progress and is being done by [Gourav Kumar](https://gourav.kumar@research.iiit.ac.in), [Pravin Mali](https://pravin.mali@research.iiit.ac.in), [Animesh Sahu](https://pravin.mali@research.iiit.ac.in) under [Prof. K. Madhava Krishna](https://faculty.iiit.ac.in/~mkrishna/) at [Robotics Research Center](http://robotics.iiit.ac.in/), [IIIT Hyderabad, India](https://www.iiit.ac.in/). The Invaluable contribution of [Ashwin K.](https://ashwinvk94@gmail.com ) and [Gajendra Nagar](https://gajena@iitk.ac.in) is thankfully acknowledged.
