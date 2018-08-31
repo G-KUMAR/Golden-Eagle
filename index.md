@@ -24,7 +24,7 @@ processing power and is suitable to be used on-board. A simultaneous object dete
 camera along with a height sensor makes accurate landing of the drone over the target object smoother. Combining the state-of-the-art techniques of State Estimation, Dense
 Mapping, Object Detection, Trajectory Planning and Object Grasping resulted in a system which has been successfully tested in real world conditions.
 
-###Summary
+### Summary
 This is a system integration design of an aerial robot which is low cost, light weighpower efficient, fully on-board, autonomous and has a versatile gripping capability. Ousystem is capable of running end to end pipeline from state estimation to dense indoor mapping, planning, object detection, picking and navigation in a cluttered indoor environment on a single on-board CPU efficiently. We also propose a simple but efficientechnique to predict the position of visible objects in global frame. A gripper feedback based failure recovery method makes the entire system robust towards unsuccessful gripping and mid air payload drop. Our system is capable of searching, accurately localizing and picking up objects of varying shape with unknown location.
 
 
