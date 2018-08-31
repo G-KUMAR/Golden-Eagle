@@ -29,7 +29,7 @@ This is a system integration design of an aerial robot which is low cost, light 
 
 
 
-## As The Project is still in progress further details cannot be disclosed publicly.
+Note: As The Project is still in progress further details cannot be disclosed publicly.
 
 
 ### People
