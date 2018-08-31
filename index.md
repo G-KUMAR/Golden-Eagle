@@ -8,6 +8,14 @@ capability of the Drone should not be limited to a particular shape and material
 of the object while the design should also avoid a significant change in dynamics
 of the system while operating.
  
+### Small image
+
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+ 
 You can use the [editor on GitHub](https://github.com/G-KUMAR/Golden_Eagle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
