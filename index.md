@@ -17,10 +17,10 @@ of the system while operating.
 ![Pipeline](https://github.com/G-KUMAR/Golden-Eagle.io/blob/master/system.png)
 
 ### Videos
-* Item [Manual Pick&Place](https://www.youtube.com/watch?v=YuA12b6oyLw).
-* Item [Autonomous Pick&Place(Tag based object tracking)](https://www.youtube.com/watch?v=WOCUoD3dMKc).
-* Item [Realtime Onboard Reconstruction and Trajectory Planning](https://www.youtube.com/watch?v=w2a-wZNqYQI).
-* Item [Complete Onboard Exploration in Indoor Environment](https://www.youtube.com/watch?v=pKTTRCladBQ).
+*  [Manual Pick&Place](https://www.youtube.com/watch?v=YuA12b6oyLw).
+*  [Autonomous Pick&Place(Tag based object tracking)](https://www.youtube.com/watch?v=WOCUoD3dMKc).
+*  [Realtime Onboard Reconstruction and Trajectory Planning](https://www.youtube.com/watch?v=w2a-wZNqYQI).
+*  [Complete Onboard Exploration in Indoor Environment](https://www.youtube.com/watch?v=pKTTRCladBQ).
 
 
 ### Methodology
