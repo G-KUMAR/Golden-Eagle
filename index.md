@@ -10,11 +10,11 @@ of the system while operating.
  
 ### The System
 
-![System](/blob/master/latest_drone_labelled.png)
+![System](latest_drone_labelled.png)
 
 ### The Hardware Pipeline
 
-![Pipeline](/blob/master/system.png)
+![Pipeline](system.png)
 
 ### Videos
 *  [Manual Pick&Place](https://www.youtube.com/watch?v=YuA12b6oyLw).
@@ -35,7 +35,7 @@ This is a system integration design of an aerial robot which is low cost, light 
 
 
 
-###### Note: As The Project is still in progress further details cannot be disclosed publicly.
+##### Note: As The Project is still in progress further details cannot be disclosed publicly right now.
 
 
 ### People
