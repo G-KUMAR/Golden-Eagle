@@ -10,11 +10,11 @@ of the system while operating.
  
 ### The System
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![The System](https://github.com/G-KUMAR/Golden-Eagle.io/blob/master/latest_drone_labelled.png)
 
-### Large image
+### The Hardware Pipeline
 
-![Branching](https://github.com/G-KUMAR/Golden-Eagle.io/blob/master/system.png)
+![The Hardware Pipeline](https://github.com/G-KUMAR/Golden-Eagle.io/blob/master/system.png)
 
 You can use the [editor on GitHub](https://github.com/G-KUMAR/Golden_Eagle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
