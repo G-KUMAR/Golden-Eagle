@@ -10,17 +10,17 @@ of the system while operating.
  
 ### The System
 
-![](https://ibb.co/jsarXz)
+![](https://github.com/G-KUMAR/Golden-Eagle.io/blob/master/latest_drone_labelled.png)
 
 ### The Hardware Pipeline
 
 ![](https://github.com/G-KUMAR/Golden-Eagle.io/blob/master/system.png)
 
 ### Videos
-# [Manual Pick&Place](https://www.youtube.com/watch?v=YuA12b6oyLw).
-# [Autonomous Pick&Place(Tag based object tracking)](https://www.youtube.com/watch?v=WOCUoD3dMKc).
-# [Realtime Onboard Reconstruction and Trajectory Planning](https://www.youtube.com/watch?v=w2a-wZNqYQI).
-# [Complete Onboard Exploration in Indoor Environment](https://www.youtube.com/watch?v=pKTTRCladBQ).
+> [Manual Pick&Place](https://www.youtube.com/watch?v=YuA12b6oyLw).
+>[Autonomous Pick&Place(Tag based object tracking)](https://www.youtube.com/watch?v=WOCUoD3dMKc).
+> [Realtime Onboard Reconstruction and Trajectory Planning](https://www.youtube.com/watch?v=w2a-wZNqYQI).
+> [Complete Onboard Exploration in Indoor Environment](https://www.youtube.com/watch?v=pKTTRCladBQ).
 
 
 ### Methodology
