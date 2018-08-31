@@ -40,6 +40,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/G-KUMAR/Golden_Eagle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### People
+The Project is still in progress and is being done by [Gourav Kumar](https://gourav.kumar@research.iiit.ac.in), [Gourav Kumar](https://gourav.kumar@research.iiit.ac.in), [Gourav Kumar](https://gourav.kumar@research.iiit.ac.in). The Invaluable contribution of [Gourav Kumar](https://gourav.kumar@research.iiit.ac.in) and [Gourav Kumar](https://gourav.kumar@research.iiit.ac.in) is thankfully acknowledged.Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
